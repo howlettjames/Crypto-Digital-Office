@@ -1,6 +1,6 @@
 # Crypto Digital Office
 
-### This is a project done for the subject Cryptography taken at ESCOM - IPN. The purpose of this project was to learn how to build a web site to provide a service with cryptograpic features. User guide and documentation can be found [here]().
+### This is a project done for the subject Cryptography taken at ESCOM - IPN. The purpose of this project was to learn how to build a web site to provide a service with cryptograpic features. User guide and documentation can be found [here](https://github.com/howlettjames/Crypto-Digital-Office/blob/master/Docs/Final%20Digital%20Office.pdf).
 
 ## Task
 
@@ -76,8 +76,10 @@ The CEO of an important organization is trying to digitize several processes. In
 
 ## How it looks
 
-![Page]("Page")
+![Page](https://github.com/howlettjames/Crypto-Digital-Office/blob/master/Test/digital.png "Page")
 
-![Page]("Page")
+![Page](https://github.com/howlettjames/Crypto-Digital-Office/blob/master/Test/digital1.png "Page")
 
-![Page]("Page")
+![Page](https://github.com/howlettjames/Crypto-Digital-Office/blob/master/Test/digital2.png "Page")
+
+![Page](https://github.com/howlettjames/Crypto-Digital-Office/blob/master/Test/digital3.png "Page")
