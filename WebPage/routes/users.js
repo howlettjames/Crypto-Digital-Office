@@ -134,7 +134,7 @@ router.post('/createaccount', (req, res) =>
                         //     auth: 
                         //     {
                         //         user: 'jamesf6888@gmail.com',
-                        //         pass: 'howardKratos'
+                        //         pass: 'pass'
                         //     }
                         // });
 
